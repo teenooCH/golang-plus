@@ -16,3 +16,4 @@ RUN go get github.com/nsf/gocode \
   && go get golang.org/x/tools/cmd/gotype \
   && rm -rf /go/pkg/* \
   && rm -rf /go/src/*
+
