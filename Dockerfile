@@ -3,7 +3,7 @@ FROM golang:1.7.0
 MAINTAINER Martin Purmann <tinu.public@generalmail.com>
 
 RUN go get github.com/nsf/gocode \
-  && go get github.com/derekparker/delve/cmd/dlv
+  && go get github.com/derekparker/delve/cmd/dlv \
   && go get github.com/rogpeppe/godef \
   && go get golang.org/x/tools/cmd/godex \
   && go get golang.org/x/tools/cmd/eg \
