@@ -1,4 +1,4 @@
-FROM golang:1.7.0
+FROM golang:1.7.1
 
 MAINTAINER Martin Purmann <tinu.public@generalmail.com>
 
