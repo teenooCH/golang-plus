@@ -4,9 +4,11 @@
 This image provides
 - Go language base image
 - some of the tools usefull for the development of Go programs
+  - dlv
   - eg
   - godef
   - godex
+  - gogetdoc
   - goimports
   - golint
   - gometalinter
@@ -14,4 +16,4 @@ This image provides
   - gorename
   - gotags
   - gotype
-  - oracle
+  - guru
