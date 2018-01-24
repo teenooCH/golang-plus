@@ -3,7 +3,7 @@
 
 This image provides
 - Go language base image
-- some of the tools usefull for the development of Go programs
+- some tools usefull for the development of Go programs
   - dlv
   - eg
   - godef
